@@ -48,7 +48,7 @@ $ cordova platform add android
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     
- ## 7- Location detection  & fenc drawing
+ ## 7- Location detection  & fence drawing
     ### 7-1- For the Android environment
     
             AdvancedGeolocation.start((position) => {
